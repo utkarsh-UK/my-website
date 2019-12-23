@@ -1,6 +1,4 @@
 # my-website
 This is really awesome website
 
-### This is a edit on branch example
-
-Edited on local
+Updates on master branch before rebase
